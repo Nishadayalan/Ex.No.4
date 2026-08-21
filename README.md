@@ -1185,54 +1185,7 @@ Overall, prompt engineering provides an effective way to control the structure, 
 
 ---
 
-# 17. Future Scope
-
-The experiment can be extended by:
-
-* Comparing multiple LLM models.
-* Recording actual input and output token counts.
-* Measuring response latency.
-* Repeating each experiment multiple times.
-* Calculating average scores.
-* Comparing monetary API costs.
-* Testing combinations of prompting techniques.
-* Applying the techniques to additional engineering domains.
-* Automating the evaluation process.
-* Creating graphs for reasoning, correctness, and token usage.
-
----
-
-# 18. Repository Structure
-
-```text
-prompt-engineering-case-studies/
-│
-├── README.md
-│
-├── prompts/
-│   ├── zero-shot.md
-│   ├── few-shot.md
-│   ├── chain-of-thought.md
-│   ├── persona-pattern.md
-│   ├── reverse-prompting.md
-│   ├── graph-prompting.md
-│   └── active-prompting.md
-│
-├── case-studies/
-│   ├── smart-irrigation.md
-│   ├── drone-navigation.md
-│   └── robot-path-planning.md
-│
-├── results/
-│   └── evaluation.csv
-│
-└── assets/
-    └── system-diagrams/
-```
-
----
-
-# 19. Final Takeaway
+# Final Takeaway
 
 ```text
                  Prompt Engineering
@@ -1261,10 +1214,6 @@ prompt-engineering-case-studies/
 > **Effective prompt engineering is not about using the longest prompt; it is about providing the right instructions, context, examples, and interaction strategy for the specific problem.**
 
 ---
-
-
-
-
 
 # Result: 
 The various types of Prompts are executed successfully with generated the report.
