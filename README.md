@@ -1,4 +1,4 @@
-# Ex.No.4-EXP 4 Generate the Prompt and evaluate that for following prompt patterns - Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
+# EXP 4 - Advanced Prompt Engineering Techniques- Zero-shot Prompting.•	Few-shot Prompting - Chain of Thought -	Persona Pattern - Reverse Prompting - Graph Prompting - Active Prompting
 ### DATE: 21-08-2026                                                                         
 ### REGISTER NUMBER : 212223230143
 ### Aim:
